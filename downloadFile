@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+
+  <body>
+  
+    <!--Center this header, make the font-size 30px, and give it a cool color-->
+    <h1>Welcome to my Website!</h1>
+    
+    
+    <h2><span>Directions</span>:  Take a look at my HTML and CSS - Some things are kind of broken :/</h2>
+    
+    
+    <h3>A Picture of everyone who worked at Creative Summer Camp...last year</h3>
+    
+    
+    <!--This picture is WAY too big - can you set the height to 300px?-->
+    <img src = "https://resources.finalsite.net/images/t_image_size_4/v1508507408/holtonarms/idxaj61yjy8kh502o0x8/Fullstaff2.png">
+  
+    <pThis year, when we all got ready to take our camp counselor picture, it was wet and rainy.  Booo.  We had to have our picture taken inside.  It was hot and kind of gross.</p>
+  
+    <h3>Awww, these campers are too cute!</h3>
+    <img src = "https://resources.finalsite.net/images/t_image_size_3/v1508856400/holtonarms/xvyrz1gjeqxwjlswy41o/042.jpg" height = "300px"
+  
+    <p>I picked this picture because they sure look like they are friends!<p>
+  
+  
+  </body>
+
+</html>
+
+
+CSS FILE
+
+/* Styles go here */
+
+h2 {
+  color: red;
+  text-align: center;
+  
+  
+}
+
+span {
+  text-decoration: underline;
+}
+  
